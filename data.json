@@ -3,11 +3,14 @@
     "PurchaseListID": "PL_20260610_006",
     "CreatedOn": "2026-06-10T10:58:03.5501537Z",
     "CreatedBy": "k64121947",
+    "EditedBy": "k64121947",
+    "EditedOn": "2026-06-10T11:57:57.9346328Z",
     "TotalEstimation": 90.0,
-    "Status": "Draft",
+    "Status": "Ready",
     "PlannedDate": "2026-06-10T00:00:00",
     "Remarks": "another fake",
-    "Deducted": true
+    "Deducted": true,
+    "Approval": null
   },
   "materials": [
     {
